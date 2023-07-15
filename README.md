@@ -1,6 +1,7 @@
+[![Masterhead](https://media.licdn.com/dms/image/C5612AQHFtjZ1i495Jw/article-cover_image-shrink_600_2000/0/1520113553494?e=2147483647&v=beta&t=6SHt5PqcfGUWR1WPB2HCvbH-s-bhYZJwb_Nywk3q8Zo)](https://JuanjoRestrepo.io)
+
 <h1 align="center">He y'all 👋, I'm Juan Jose Restrepo Rosero</h1>
 <h3 align="center">A Computer / Electronics Engineer passionate about programming and robotics from Colombia 🇨🇴</h3>
-<img align=“right” alt=“Coding” width=“100” src=“https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjorestrepo&label=Profile%20views&color=0e75b6&style=flat" alt="juanjorestrepo" /> </p>
 

@@ -2,7 +2,7 @@
 
 <h1 align="center">He y'all 👋, I'm Juan Jose Restrepo Rosero</h1>
 <h3 align="center">A Computer / Electronics Engineer passionate about programming and robotics from Colombia 🇨🇴</h3>
-<img alig="right" src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/23164907/Robotic-Engineering.jpg">
+<img alig="right" alt="Robot" widht="400" src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/23164907/Robotic-Engineering.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjorestrepo&label=Profile%20views&color=0e75b6&style=flat" alt="juanjorestrepo" /> </p>
 

@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **restrepojuanjo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gsYOt1HawDwT7bR5s6IP0Xzzvape8gBe/view?usp=sharing](https://drive.google.com/file/d/1gsYOt1HawDwT7bR5s6IP0Xzzvape8gBe/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1gsYOt1HawDwT7bR5s6IP0Xzzvape8gBe/view?usp=sharing)
 
 - ⚡ Fun fact **I love learning languages and other cultures**
 

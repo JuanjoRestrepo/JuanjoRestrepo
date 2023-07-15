@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1gsYOt1HawDwT7bR5s6IP0Xzzvape8gBe/view?usp=sharing)
 
-- ⚡ Fun fact **I love learning languages and other cultures**
+- ⚡ Fun fact **I love learning languages and other cultures** 🇩🇪🇫🇷🇺🇸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Juan Jose Restrepo Rosero</h1>
 <h3 align="center">A Computer Engineer passionate for programming and robotics from Colombia 🇨🇴</h3>
-<img align=“center” alt=“Coding” width=“200” src=“https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif”>
+<img align=“right” alt=“Coding” width=“10” src=“https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjorestrepo&label=Profile%20views&color=0e75b6&style=flat" alt="juanjorestrepo" /> </p>
 

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjorestrepo&label=Profile%20views&color=0e75b6&style=flat" alt="juanjorestrepo" /> </p>
 
-- 🔭 I’m currently working on [GDB for a MES Control](https://github.com/JuanjoRestrepo/TESIS-2023)
+- 🔭 I’m currently working on [GDB for a MES Control and Traceability](https://github.com/JuanjoRestrepo/TESIS-2023)
 
 - 📫 How to reach me **restrepojuanjo@gmail.com**
 

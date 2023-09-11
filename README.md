@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjorestrepo&label=Profile%20views&color=0e75b6&style=flat" alt="juanjorestrepo" /> </p>
 
-- 🔭 I’m currently working on [GDB for a MES Control and Traceability](https://github.com/JuanjoRestrepo/TESIS-2023)
+- 🔭 I’m currently working on [**GDB for a MES Control and Traceability**](https://github.com/JuanjoRestrepo/TESIS-2023)
 
 - 📫 How to reach me **restrepojuanjo@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1w_hlYzTtS4uQ-RkH404R0BTYbEb8cYBh/view?usp=sharing)
+- 📄 Know about my experiences [**My CV**](https://drive.google.com/file/d/1w_hlYzTtS4uQ-RkH404R0BTYbEb8cYBh/view?usp=sharing)
 
 - ⚡ Fun fact **I love learning languages and from other cultures 🇩🇪 🇫🇷 🇺🇸**
 

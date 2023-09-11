@@ -24,4 +24,3 @@
 <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanjorestrepo&theme=react&line_height=40&hide=css"/> </a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanjorestrepo&show_icons=true&locale=en" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjorestrepo&" alt="juanjorestrepo" /></p>
-

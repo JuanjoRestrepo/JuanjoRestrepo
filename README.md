@@ -1,4 +1,6 @@
 [![Masterhead](https://media.licdn.com/dms/image/C5612AQHFtjZ1i495Jw/article-cover_image-shrink_600_2000/0/1520113553494?e=2147483647&v=beta&t=6SHt5PqcfGUWR1WPB2HCvbH-s-bhYZJwb_Nywk3q8Zo)](https://JuanjoRestrepo.io)
+
+
 <h1 align="center">Hello everyone 👋, I'm Juan Jose Restrepo Rosero</h1>
 <h3 align="center">A Computer / Electronics Engineer passionate about programming and robotics from Colombia 🇨🇴</h3>
 <img align="right" alt="Coding" width="390" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN0aGwzdXdhczdjcmI1OHV0dnBxdTZvcnZoZDE3ajZzaGFsMWF6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">

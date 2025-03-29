@@ -16,7 +16,7 @@
 - 🔭 Leading development on [**MES Control & Traceability System**](https://github.com/JuanjoRestrepo/TESIS-2023)
 - 📫 Reach me at: **restrepojuanjo@gmail.com**
 - 📄 Know about my experiences [**Professional Portfolio**](https://juanjorestrepo.github.io/)
-- 🎯 Fun Fact: I speak 3 languages (ES/EN/DE) and love cultural exchange!
+- 🎯 Fun Fact: I speak 3 languages (CO/US/DE) and love cultural exchange!
 
 ---
 

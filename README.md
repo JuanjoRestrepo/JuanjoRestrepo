@@ -28,7 +28,7 @@
   <a href="https://juanjorestrepo.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://drive.google.com/file/d/10bQcE7AxmHnHkwrIljjYN5CKJsK2eQOd/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/18wx71ww2i1OAdGjagUPhUGkBZZEiRwLO/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="CV">
   </a>
 </p>

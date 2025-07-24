@@ -13,7 +13,7 @@
 </p>
 
 # 🔥 Current Focus
-- 🔭 Leading development on [**MES Control & Traceability System**](https://github.com/JuanjoRestrepo/TESIS-2023)
+- 🔭 Leading development on [**Master Degree Thesis**](https://github.com/JuanjoRestrepo/Master-Data-Science/tree/main/TESIS)
 - 📫 Reach me at: **restrepojuanjo@gmail.com**
 - 📄 Know about my experiences [**Professional Portfolio**](https://juanjorestrepo.github.io/)
 - 🎯 Fun Fact: I speak 3 languages (🇨🇴/🇺🇸/🇩🇪) and love cultural exchange!

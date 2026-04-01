@@ -1,5 +1,3 @@
-[![Masterhead](https://media.licdn.com/dms/image/C5612AQHFtjZ1i495Jw/article-cover_image-shrink_600_2000/0/1520113553494?e=2147483647&v=beta&t=6SHt5PqcfGUWR1WPB2HCvbH-s-bhYZJwb_Nywk3q8Zo)](https://juanjorestrepo.github.io/)
-
 <h1 align="center">👋 Hello World! I'm Juan Jose Restrepo Rosero</h1>
 <h3 align="center">💻 Computer & Electronics Engineer | 🤖 Robotics Enthusiast | 🇨🇴 Colombian Developer</h3>
 

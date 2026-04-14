@@ -12,7 +12,7 @@
 
 # 🔥 Current Focus
 - 🔭 Leading development on [**Master Degree Thesis**](https://github.com/JuanjoRestrepo/Master-Data-Science/tree/main/TESIS)
-- ⚽ Building a multi-layered data pipeline for [**World Cup 2026 Prediction Engine**](https://github.com/JuanjoRestrepo/worldcup-2026-prediction)
+- ⚽ Building an End-to-End [**World Cup 2026 Prediction Engine**](https://github.com/JuanjoRestrepo/worldcup-2026-prediction)
 - 🌱 Currently learning: **MLOps, Cloud Infrastructure & Power BI**
 - 📫 Reach me at: **restrepojuanjo@gmail.com**
 - 📄 Know about my experiences: [**Professional Portfolio**](https://juanjorestrepo.github.io/#resume) | [**Download CV**](https://drive.google.com/file/d/1g7rqtMiTngArr4HrIYykhA72fU2m6puy/view?usp=sharing)

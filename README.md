@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Juan Jose Restrepo Rosero</h1>
-<h3 align="center">💻 Computer & Electronics Engineer | 🤖 Robotics Enthusiast | 🇨🇴 Colombian Developer</h3>
+<h3 align="center">💻 Computer & Electronics Engineer | Data Scientist | 🤖 Robotics Enthusiast | 🇨🇴 Colombian Developer</h3>
 
 <img align="right" alt="Coding" width="400" style="border-radius:10px; margin-top:20px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN0aGwzdXdhczdjcmI1OHV0dnBxdTZvcnZoZDE3ajZzaGFsMWF6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 

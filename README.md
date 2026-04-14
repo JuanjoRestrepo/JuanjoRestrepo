@@ -16,7 +16,11 @@
 - 🌱 Currently learning: **MLOps, Cloud Infrastructure & Power BI**
 - 📫 Reach me at: **restrepojuanjo@gmail.com**
 - 📄 Know about my experiences: [**Professional Portfolio**](https://juanjorestrepo.github.io/#resume) | [**Download CV**](https://drive.google.com/file/d/1g7rqtMiTngArr4HrIYykhA72fU2m6puy/view?usp=sharing)
-- 🎯 Fun Fact: I speak 3 languages (🇨🇴/🇺🇸/🇩🇪) and love cultural exchange!
+- 🎯 Fun Fact: I speak 3 languages: 
+  <img src="https://abs.twimg.com/emoji/v2/72x72/1f1e8-1f1f4.png" width="20"> / 
+  <img src="https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png" width="20"> / 
+  <img src="https://abs.twimg.com/emoji/v2/72x72/1f1e9-1f1ea.png" width="20"> 
+  and love cultural exchange!
 
 ---
 

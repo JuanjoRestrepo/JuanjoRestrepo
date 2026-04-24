@@ -32,7 +32,7 @@
   <a href="https://juanjorestrepo.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://drive.google.com/file/d/13X7gB4otWOtJTdBLZam5rKich4RMDxhP/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1-mKNk98h1_7LPBPcR3wTvwYC8mqnSkEf/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="CV">
   </a>
 </p>

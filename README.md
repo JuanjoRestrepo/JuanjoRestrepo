@@ -15,7 +15,7 @@
 - ⚽ Building an End-to-End [**World Cup 2026 Prediction Engine**](https://github.com/JuanjoRestrepo/worldcup-2026-prediction)
 - 🌱 Currently learning: **MLOps, Cloud Infrastructure & Power BI**
 - 📫 Reach me at: **restrepojuanjo@gmail.com**
-- 📄 Know about my experiences: [**Professional Portfolio**](https://juanjorestrepo.github.io/) | [**Download CV**](https://drive.google.com/file/d/1g7rqtMiTngArr4HrIYykhA72fU2m6puy/view?usp=sharing)
+- 📄 Know about my experiences: [**Professional Portfolio**](https://juanjorestrepo.github.io/) | [**Download CV**](https://drive.google.com/file/d/1-mKNk98h1_7LPBPcR3wTvwYC8mqnSkEf/view?usp=sharing)
 - 🎯 Fun Fact: I speak 3 languages: 
   <img src="https://abs.twimg.com/emoji/v2/72x72/1f1e8-1f1f4.png" width="20"> / 
   <img src="https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png" width="20"> / 
